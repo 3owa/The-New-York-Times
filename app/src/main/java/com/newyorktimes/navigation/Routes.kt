@@ -12,5 +12,4 @@ sealed class Routes {
 
     @Serializable
     data class Detail(val article: Article)
-
 }
