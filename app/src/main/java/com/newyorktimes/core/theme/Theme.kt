@@ -1,4 +1,4 @@
-package com.newyorktimes.features.news.presentation.theme
+package com.newyorktimes.core.theme
 
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme

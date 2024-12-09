@@ -5,7 +5,7 @@ import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
 import androidx.navigation.compose.rememberNavController
-import com.newyorktimes.features.news.presentation.theme.TheNewYorkTimesTheme
+import com.newyorktimes.core.theme.TheNewYorkTimesTheme
 import com.newyorktimes.navigation.AppNavigation
 import dagger.hilt.android.AndroidEntryPoint
 
